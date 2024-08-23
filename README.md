@@ -1,10 +1,18 @@
-## Overview
 
-`React Pharmacy Front` is a front-end project for a pharmacy management system built using React.js. This project provides a user interface that allows users to interact with the pharmacy's services, including viewing and managing products, placing orders, and accessing account information.
+# React Pharmacy Front
+<!--
+[![GitHub License](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE)
+[![GitHub Issues](https://img.shields.io/github/issues/felipemacedo1/react-pharmacy-front)](https://github.com/felipemacedo1/react-pharmacy-front/issues)
+[![GitHub Stars](https://img.shields.io/github/stars/felipemacedo1/react-pharmacy-front)](https://github.com/felipemacedo1/react-pharmacy-front/stargazers)
+[![GitHub Forks](https://img.shields.io/github/forks/felipemacedo1/react-pharmacy-front)](https://github.com/felipemacedo1/react-pharmacy-front/network/members)
+
+## Overview
+-->
+`React Pharmacy Front` is a front-end project for a pharmacy management system built using React.js. This project was developed as part of a performance evaluation during the Generation Brasil Java Web Full Stack Bootcamp. The objective was to create a responsive and functional interface for managing pharmacy-related services.
 
 ## Features
-
-- **User Authentication:** Secure login and registration system.
+<!--
+- **User Authentication:** Secure login and registration system. -->
 - **Product Management:** View, search, and filter products available in the pharmacy.
 - **Order Processing:** Place, track, and manage orders.
 - **Responsive Design:** Optimized for both desktop and mobile devices.
@@ -16,6 +24,8 @@
 - **Axios:** HTTP client for making requests to the backend API.
 - **React Router:** Navigation between different views of the application.
 - **Tailwind:** Responsive design framework.
+<!--
+- **Jest & React Testing Library:** For unit testing. -->
 
 ## Installation
 
@@ -47,15 +57,16 @@ To set up the project locally, follow these steps:
 
    The application should now be running on `http://localhost:3000`.
 
-  <!--
 ## Usage
 
 Once the application is running, you can:
-
-- **Login/Register:** Use the authentication forms to sign in or create a new account.
+<!--
+- **Login/Register:** Use the authentication forms to sign in or create a new account. -->
 - **Browse Products:** View a list of available products, use filters to narrow down your search.
 - **Place Orders:** Add products to your cart and complete the purchase process.
 - **Manage Orders:** View past orders, check status, and manage deliveries.
+
+<!--
 ## Testing
 
 To run the tests, use the following command:
@@ -75,7 +86,11 @@ Contributions are welcome! Please follow these steps to contribute:
 3. Make your changes and commit them.
 4. Push your changes to your forked repository.
 5. Open a Pull Request describing your changes.
+<!--
+## License
 
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+-->
 ## Contact
 
 If you have any questions or suggestions, feel free to contact me:
